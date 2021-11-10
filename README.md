@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ->The Front-end part is made using HTML,CSS,JS with Prime use of Javascript Framework REACT.js.<br>
 ->The Weather and its sub-details like humidity, wind speed, atmospheric pressure, and Time are all fetched from realtime API integrated to it.<br>
 -> Functional Concepts of React JS like, Components, Fat Arrow Function, Map have been used together with API key connected to it and is called inside the functin when users enters the desired city for displaying the parameters of the data.<br>
-->The Node Modules folder is also required to be downloaded while creating the react app and few Libraries have been imported using NPM (Node Packet Manager).<br>
+->The Node Modules folder is also required to be downloaded while creating the react app and few Libraries have been imported using NPM (Node Packet Manager) like FIREBASE (I used it for Hosting my application) . <br>
 
 <br><br>
 #### <---------------------------------------------THANK YOU------------------------------------------------------->
